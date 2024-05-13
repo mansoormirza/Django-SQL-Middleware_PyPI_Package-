@@ -1,4 +1,4 @@
-sql-inspector
+sqlqueries-inspector
 ==================
 A simple middleware tool for analyzing Django ORM SQL execution.
 
